@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 05 02:56:27 NZST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0163-cb4c-a35c-00000e88cd48 
+on database directory S:\Aut Work\Year 2\Programming 3\PDC Project\SodokuDB with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/S:/Aut%20Work/Year%202/Programming%203/PDC%20Project/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=S:\Aut Work\Year 2\Programming 3\PDC Project
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
